@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
-# Coded By Kuduxaaa
+# Coded By Gr1zzly
 
 import sys
 import time
