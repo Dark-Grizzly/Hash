@@ -1,0 +1,5 @@
+wordlist
+colorama
+pyfiglet
+requests
+argparse
